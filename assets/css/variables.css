@@ -1,0 +1,19 @@
+:root {
+    --primary-color: rgb(255, 206, 46);
+    --light-color-1: rgb(255, 255, 255);
+    --light-color-2: rgba(255, 255, 255, 0.7);
+    --dark-color-text: rgba(97, 97, 97, 1);
+    --dark-color-1: rgba(36, 36, 36, 1);
+    --dark-color-2: rgba(36, 36, 36, 0.7);
+    --border-color-grey: rgba(196, 196, 196, 1);
+    --background-color: rgba(247, 247, 248, 1);
+
+    --body-font: "Inter", sans-serif;
+    --title-font: "Montserrat", sans-serif;
+
+    --title-size-large: 2.5rem;
+    --title-size-medium: 1.5rem;
+    --body-size-large: 1.125rem;
+    --body-size-normal: 1rem;
+    --body-size-small: 0.875rem;
+}
